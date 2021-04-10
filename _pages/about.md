@@ -10,7 +10,7 @@ redirect_from:
 
 
 # About Me
-* I'm currently pursuing Bachelors in Computer Science at [Shahjalal University of Science and Technology](https://https://www.sust.edu/). [[CV](https://https://rajoy99.github.io/academic/files/CV4.pdf)] 
+* I'm currently pursuing Bachelors in Computer Science at [Shahjalal University of Science and Technology](https://www.sust.edu/). [[CV](https://https://rajoy99.github.io/academic/files/CV4.pdf)] 
 
 * My research interest lies in the intersection of Machine learning explainability, Computer Vision and Geospatial Data Science. Quite recently, I have been working on SRGANs to downscale climatological data. 
 
