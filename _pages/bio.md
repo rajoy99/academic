@@ -22,6 +22,6 @@ Work Experience
 
 Online Certificates
 =====
-  * [Deep Learning Specialization,](https://www.coursera.org/account/accomplishments/specialization/NM9SMAJW9USM) deeplearning.ai
-  * [Introduction to Data Science,](https://www.coursera.org/account/accomplishments/verify/XYQ25BJD9PA6) University of Michigan
-  * [Applied Machine Learning in Python,](https://www.coursera.org/account/accomplishments/verify/LS77LUGT2WBK) University of Michigan
+  * [Machine Learning with Python-From Linear Models to Deep Learning,](https://courses.edx.org/certificates/a0aaaeecae9a4ec4876d4d32af1b714a) MITx
+  * [Neural Networks and Deep Learning,](https://www.coursera.org/account/accomplishments/verify/9BAFSYQ8BKR6) Deeplearning.ai
+  * [Applied Machine Learning in Python,](https://www.coursera.org/account/accomplishments/verify/NEJMBHWQLXHK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) University of Michigan
