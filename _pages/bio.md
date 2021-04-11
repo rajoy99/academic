@@ -32,3 +32,7 @@ Online Certificates
   * [Time Series Analysis in Python,](https://www.datacamp.com/statement-of-accomplishment/course/ff1d2668aa6044a68cde108e75cacc694b19b994) Datacamp
   * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning,](https://www.coursera.org/account/accomplishments/verify/635XLEBFURFY) Deeplearning.ai
   * [Applied Plotting, Charting & Data Representation in Python,](https://www.coursera.org/account/accomplishments/verify/N69XX9L5JGKK) University of Michigan
+  * [Computer Vision Basics,](https://www.coursera.org/account/accomplishments/verify/9BAFSYQ8BKR6) Deeplearning.ai
+  * [Data Science Math Skills,](https://www.coursera.org/account/accomplishments/certificate/HDQK3MF7TS6D) Duke University
+  * [Introduction to R,](https://www.datacamp.com/statement-of-accomplishment/course/f433ea895916aafee4ab51ef601cdbc419f57498) Datacamp
+  
